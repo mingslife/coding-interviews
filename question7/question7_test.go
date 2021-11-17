@@ -1,4 +1,4 @@
-package question_7
+package question7
 
 import (
 	"testing"

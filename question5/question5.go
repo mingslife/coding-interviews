@@ -1,6 +1,6 @@
-// Package question_5
+// Package question5
 // 面试题 5：替换空格
-package question_5
+package question5
 
 import "strings"
 

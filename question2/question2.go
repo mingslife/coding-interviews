@@ -1,6 +1,6 @@
-// Package question_2
+// Package question2
 // 面试题 2：实现 Singleton 模式
-package question_2
+package question2
 
 // 题目：设计一个类，我们只能生成该类的一个实例。
 

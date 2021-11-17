@@ -1,6 +1,6 @@
-// Package question_3
+// Package question3
 // 面试题 3：数组中重复的数字
-package question_3
+package question3
 
 // 题目一：找出数组中重复的数字。
 // 在一个长度为 n 的数组里的所有数字都在 0~n-1的范围内。数组中某些数据是重复的，但不知道有几

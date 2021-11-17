@@ -1,6 +1,6 @@
-// Package question_7
+// Package question7
 // 面试题 7：重建二叉树
-package question_7
+package question7
 
 import (
 	"strconv"

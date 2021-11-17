@@ -1,6 +1,6 @@
-// Package question_6
+// Package question6
 // 面试 6：从尾到头打印链表
-package question_6
+package question6
 
 import (
 	"strconv"
